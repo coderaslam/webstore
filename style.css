@@ -1,0 +1,6 @@
+*{margin:0px; box-sizing: border-box;}
+body{font-family: arial; padding:30px;}
+P{line-height: 28px; margin-top: 20px;}
+button{background-color: darkblue; color:white; padding: 15px  30px; border:none;
+margin-top: 20px;
+}
